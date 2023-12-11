@@ -3,7 +3,7 @@ Minimal Weather App Ui Design that takes location input from user and shows curr
 
 I have used openweather api to connect this app to api to get weather info
 
-
+Access from here: https://suvamarya.github.io/Weather-App/
 
 # Screenshot
 Here we have project screenshot :
